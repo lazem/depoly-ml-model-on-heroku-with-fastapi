@@ -1,0 +1,4 @@
+[core]
+    remote = remote_data
+['remote "remote_data"']
+    url = s3://census-data-udacity-mlops
